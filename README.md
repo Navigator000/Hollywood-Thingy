@@ -7,6 +7,10 @@ If you like this and want to make changes you can absolutely rip the code and me
 
 Have fun!
 
+The passcode is 17801
+
+The ARM code is 39441
+
 (Also if you take a look at the logs they read like corny Hollywood messages. This is intentional.)
 
 (It's also capitalised because that's what I usually see movies do)
